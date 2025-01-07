@@ -2,7 +2,7 @@
   "name": "bookshop",
   "version": "1.0.0",
   "description": "A simple CAP project.",
-  "repository": "<Add your repository here>",
+  "repository": "https://github.com/Laxmiksap9295/bookshop.git",
   "license": "UNLICENSED",
   "private": true,
   "dependencies": {
