@@ -10,7 +10,6 @@ build-parameters:
     - builder: custom
       commands:
         - npm install
-        - npm ci
         - npx cds build --production
         - mkdir -p resources
 modules:
